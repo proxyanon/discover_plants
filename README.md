@@ -2,7 +2,7 @@
 Try to fingerprint any plant with camera in web (PWA), you can install in home with PWA features and run likely native application.
 
 
-<h3>*Features*</h3>
+<h3>Features</h3>
 
 - Use generics models of I.A LLM to find the best match to your picture of plant;
 - Describe specie, family and other informations;
