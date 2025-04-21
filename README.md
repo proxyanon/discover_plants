@@ -11,4 +11,8 @@ Try to fingerprint any plant with camera in web (PWA), you can install in home w
 
 <h4>Maintener(s)</h4>
 
-&nbsp;&nbsp;<span style="color: red;font-weight:bold;">Daniel Victor Freire Feitosa</span>
+&nbsp;&nbsp;[color="red"]Daniel Victor Freire Feitosa[/color]
+
+teste = [
+"teste"
+]
